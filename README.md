@@ -1,5 +1,5 @@
 ### Hi there 👋 
-A Developing Frontend developer that is currently learning Javascript
+A Frontend developer
 <!--
 **samuelukoha/samuelukoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
